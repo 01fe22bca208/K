@@ -155,8 +155,9 @@ const Navbar = ({ openAuth, setOpenAuth, currentUser }) => {
 
         <NavLogo>
           <Logo src={LogoImg} />
+          
         </NavLogo>
-
+        by Kiran
         <NavItems>
           <Navlink to="/">Home</Navlink>
           <Navlink to="/Shop">Shop</Navlink>
